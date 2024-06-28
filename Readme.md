@@ -102,5 +102,6 @@ The solution can be shared via .zip file or sharing a github repository url via 
 * **Optimización del Mapeo de Directores**: Mejorar el método `getDirectorNames` utilizando streams y lambdas de Java 8 para hacer el código más conciso y posiblemente más eficiente.
 
 
-* **Pueden ver la salida en el siguiente endpoint**: http://localhost:8080/api/directors?threshold=4  
+### Pueden ver la salida en el siguiente endpoint 
+* http://localhost:8080/api/directors?threshold=4  
 
