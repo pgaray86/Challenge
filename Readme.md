@@ -100,3 +100,7 @@ The solution can be shared via .zip file or sharing a github repository url via 
 * **Documentación y Swagger**: Integrar Swagger para la generación automática de documentación de la API REST, lo que facilitaría el uso y la comprensión del servicio por parte de otros desarrolladores.
 * **Seguridad**: Añadir autenticación y autorización a los endpoints del controlador para asegurar que solo los usuarios autorizados puedan acceder a los datos.
 * **Optimización del Mapeo de Directores**: Mejorar el método `getDirectorNames` utilizando streams y lambdas de Java 8 para hacer el código más conciso y posiblemente más eficiente.
+
+
+* **Pueden ver la salida en el siguiente endpoint**: http://localhost:8080/api/directors?threshold=4  
+
